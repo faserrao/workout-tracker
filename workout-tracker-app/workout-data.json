@@ -1,0 +1,131 @@
+{
+  "startDate": "2025-08-03",
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "startDate": "2025-08-14",
+      "endDate": "2025-08-20",
+      "days": [
+        {
+          "date": "2025-08-14",
+          "dayName": "THURSDAY",
+          "focusAreas": [],
+          "exercises": [],
+          "cardio": "",
+          "notes": ""
+        },
+        {
+          "date": "2025-08-15",
+          "dayName": "FRIDAY",
+          "focusAreas": [],
+          "exercises": [],
+          "cardio": "",
+          "notes": ""
+        },
+        {
+          "date": "2025-08-16",
+          "dayName": "SATURDAY",
+          "focusAreas": [],
+          "exercises": [],
+          "cardio": "",
+          "notes": ""
+        },
+        {
+          "date": "2025-08-17",
+          "dayName": "SUNDAY",
+          "focusAreas": [],
+          "exercises": [],
+          "cardio": "",
+          "notes": ""
+        },
+        {
+          "date": "2025-08-18",
+          "dayName": "MONDAY",
+          "focusAreas": [],
+          "exercises": [],
+          "cardio": "",
+          "notes": ""
+        },
+        {
+          "date": "2025-08-19",
+          "dayName": "TUESDAY",
+          "focusAreas": [],
+          "exercises": [],
+          "cardio": "",
+          "notes": ""
+        },
+        {
+          "date": "2025-08-20",
+          "dayName": "WEDNESDAY",
+          "focusAreas": [],
+          "exercises": [],
+          "cardio": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "weekNumber": 2,
+      "startDate": "2025-08-21",
+      "endDate": "2025-08-27",
+      "days": [
+        {
+          "date": "2025-08-21",
+          "dayName": "THURSDAY",
+          "focusAreas": [],
+          "exercises": [],
+          "cardio": "",
+          "notes": ""
+        },
+        {
+          "date": "2025-08-22",
+          "dayName": "FRIDAY",
+          "focusAreas": [],
+          "exercises": [],
+          "cardio": "",
+          "notes": ""
+        },
+        {
+          "date": "2025-08-23",
+          "dayName": "SATURDAY",
+          "focusAreas": [],
+          "exercises": [],
+          "cardio": "",
+          "notes": ""
+        },
+        {
+          "date": "2025-08-24",
+          "dayName": "SUNDAY",
+          "focusAreas": [],
+          "exercises": [],
+          "cardio": "",
+          "notes": ""
+        },
+        {
+          "date": "2025-08-25",
+          "dayName": "MONDAY",
+          "focusAreas": [],
+          "exercises": [],
+          "cardio": "",
+          "notes": ""
+        },
+        {
+          "date": "2025-08-26",
+          "dayName": "TUESDAY",
+          "focusAreas": [],
+          "exercises": [],
+          "cardio": "",
+          "notes": ""
+        },
+        {
+          "date": "2025-08-27",
+          "dayName": "WEDNESDAY",
+          "focusAreas": [],
+          "exercises": [],
+          "cardio": "",
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

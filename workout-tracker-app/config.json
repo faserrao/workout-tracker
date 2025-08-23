@@ -1,0 +1,197 @@
+{
+  "focusAreas": {
+    "weights": [
+      {
+        "id": "chest",
+        "name": "Chest",
+        "exercises": [
+          "Barbell Bench Press",
+          "Dumbbell Bench Press",
+          "Incline Barbell Press",
+          "Incline Dumbbell Press",
+          "Decline Bench Press",
+          "Dumbbell Flyes",
+          "Cable Crossover",
+          "Push-ups",
+          "Chest Dips",
+          "Machine Chest Press"
+        ]
+      },
+      {
+        "id": "back",
+        "name": "Back",
+        "exercises": [
+          "Wide Grip Pull Up",
+          "Narrow Grip Pull Up",
+          "Lat Pulldown",
+          "Barbell Row",
+          "1 Armed Dumbbell Rows",
+          "T-Bar Row",
+          "Seated Cable Row",
+          "Deadlift",
+          "Rack Pulls",
+          "Face Pulls"
+        ]
+      },
+      {
+        "id": "biceps",
+        "name": "Biceps",
+        "exercises": [
+          "Barbell Curl",
+          "Dumbbell Curl",
+          "Hammer Curl",
+          "Preacher Curl",
+          "Cable Curl",
+          "Concentration Curl",
+          "EZ Bar Curl",
+          "Cable Hammer Curl",
+          "21s",
+          "Chin-ups"
+        ]
+      },
+      {
+        "id": "triceps",
+        "name": "Triceps",
+        "exercises": [
+          "Tricep Pushdown",
+          "Dumbbell Overhead Extensions",
+          "Close Grip Bench Press",
+          "Tricep Dips",
+          "Cable Overhead Extension",
+          "Diamond Push-ups",
+          "Tricep Kickbacks",
+          "Skull Crushers",
+          "Rope Pushdown",
+          "Bench Dips"
+        ]
+      },
+      {
+        "id": "shoulders",
+        "name": "Shoulders",
+        "exercises": [
+          "Barbell Shoulder Press",
+          "Dumbbell Shoulder Press",
+          "Arnold Press",
+          "Lateral Raises",
+          "Front Raises",
+          "Rear Delt Flyes",
+          "Upright Row",
+          "Shrugs",
+          "Cable Lateral Raises",
+          "Face Pulls"
+        ]
+      },
+      {
+        "id": "quads",
+        "name": "Quads",
+        "exercises": [
+          "Barbell Squat",
+          "Front Squat",
+          "Leg Press",
+          "Lunges",
+          "Bulgarian Split Squats",
+          "Leg Extension",
+          "Hack Squat",
+          "Goblet Squat",
+          "Step-ups",
+          "Walking Lunges"
+        ]
+      },
+      {
+        "id": "hamstrings",
+        "name": "Hamstrings",
+        "exercises": [
+          "Romanian Deadlift",
+          "Leg Curl",
+          "Stiff Leg Deadlift",
+          "Good Mornings",
+          "Nordic Curls",
+          "Single Leg Deadlift",
+          "Glute Ham Raise",
+          "Swiss Ball Leg Curl",
+          "Cable Pull Through",
+          "Reverse Lunges"
+        ]
+      },
+      {
+        "id": "calves",
+        "name": "Calves",
+        "exercises": [
+          "Standing Calf Raises",
+          "Seated Calf Raises",
+          "Donkey Calf Raises",
+          "Single Leg Calf Raises",
+          "Calf Press on Leg Press",
+          "Box Jumps",
+          "Jump Rope",
+          "Farmer's Walk on Toes",
+          "Calf Raises on Smith Machine",
+          "Tibialis Raises"
+        ]
+      },
+      {
+        "id": "abdominals",
+        "name": "Abdominals",
+        "exercises": [
+          "Plank",
+          "Crunches",
+          "Russian Twists",
+          "Leg Raises",
+          "Ab Wheel",
+          "Cable Crunches",
+          "Mountain Climbers",
+          "Bicycle Crunches",
+          "Dead Bug",
+          "Hanging Knee Raises"
+        ]
+      },
+      {
+        "id": "glutes",
+        "name": "Glutes",
+        "exercises": [
+          "Hip Thrust",
+          "Barbell Hip Thrust",
+          "Glute Bridge",
+          "Bulgarian Split Squats",
+          "Walking Lunges",
+          "Step-ups",
+          "Cable Pull-through",
+          "Romanian Deadlift",
+          "Sumo Deadlift",
+          "Glute Kickbacks"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": "flexibility",
+        "name": "Flexibility",
+        "exercises": [
+          "Yoga Flow",
+          "Static Stretching",
+          "Dynamic Stretching",
+          "Foam Rolling",
+          "Mobility Work"
+        ]
+      },
+      {
+        "id": "cardio",
+        "name": "Cardio",
+        "exercises": [
+          "Running",
+          "Cycling",
+          "Swimming",
+          "Rowing",
+          "Elliptical",
+          "HIIT",
+          "Jump Rope",
+          "Stair Climber"
+        ]
+      }
+    ]
+  },
+  "setsConfiguration": {
+    "defaultSets": 3,
+    "maxSets": 5
+  }
+}
